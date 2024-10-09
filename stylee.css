@@ -1,0 +1,32 @@
+h1 {
+  color: green;
+}
+u {
+  color: blue;
+}
+.mom {
+  background-color: pink;
+  font-size: 40px;
+  color: red;
+  padding-left: 540px;
+  padding-right: 530px;
+}
+
+.para {
+  text-align: center;
+}
+.para1 {
+  color: blue;
+  font-size: 16px;
+}
+.para2 {
+  color: red;
+  font-size: 16px;
+}
+.para3 {
+  color: green;
+  font-size: 16px;
+}
+.totalpara {
+  background-color: yellow;
+}
