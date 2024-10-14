@@ -1,0 +1,25 @@
+.backgroundd {
+  background-image: url(https://us.123rf.com/450wm/ricardoreitmeyer/ricardoreitmeyer1308/ricardoreitmeyer130800030/21908266-%C4%90i%E1%BB%81u-n%C3%A0y-minh-h%E1%BB%8Da-h%C3%ACnh-%E1%BA%A3nh-c%E1%BB%A7a-m%E1%BB%99t-%C4%91%E1%BA%A1i-d%C6%B0%C6%A1ng-xanh-tr%C4%83ng-s%C3%A2u-v%C3%A0o-ban-%C4%91%C3%AAm-v%E1%BB%9Bi-s%C3%B3ng-b%C3%ACnh-t%C4%A9nh-s%E1%BA%BD-l%C3%A0m-ch.jpg?ver=6);
+  background-repeat: no-repeat;
+  background-size: 150%;
+  /* width: 100%; */
+  text-align: center;
+  margin-top: 150px;
+  padding: 20px;
+}
+.fa-solid {
+  color: rgb(255, 255, 255);
+}
+.fa-regular {
+  color: white;
+}
+h2 {
+  color: white;
+}
+p {
+  color: rgb(255, 255, 255);
+}
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
