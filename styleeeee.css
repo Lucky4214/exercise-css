@@ -1,0 +1,31 @@
+.total {
+  text-align: center;
+  margin: 30px;
+  background-color: rgb(225, 220, 220);
+  padding: 60px 150px 60px 150px;
+}
+.fa-regular {
+  font-size: 48px;
+  padding: 20px;
+  color: rgb(69, 214, 214);
+}
+b {
+  font-size: 36px;
+}
+p {
+  font-size: 18px;
+}
+#mail {
+  padding: 15px;
+  padding-right: 160px;
+}
+.mail {
+  margin-bottom: 15px;
+}
+button {
+  padding: 15px;
+  background-color: rgb(73, 198, 198);
+  border: white;
+  border-radius: 5px;
+  color: white;
+}
